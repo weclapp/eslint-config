@@ -17,6 +17,7 @@
         "jshint",
         "jslint",
         "eslint",
+        "eslintconfig",
         "validate",
         "code style",
         "strict",
