@@ -23,7 +23,7 @@ $ npm install @weclapp/eslint-config
 The weclapp eslint-rules override parts of eslint's `eslint:recommend`.
 ```js
 {
-    "extends": "weclapp",
+    "extends": "@weclapp",
     "rules": {
         // Your custom, project-specific rules
     }
