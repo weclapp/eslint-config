@@ -7,8 +7,8 @@ conf.env.node = true;
 
 // Run linter on repo files
 const report = new eslint.CLIEngine(conf).executeOnFiles([
-    'src/rules.js',
-    'test/test.js'
+	'src/rules.js',
+	'test/test.js'
 ]);
 
 // Assert no errors and warnings were found.
